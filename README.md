@@ -1,1 +1,1 @@
-# DotNet-MachineLearning
+Using ML.NET to predict postive/negative sentiment based on restaurant reviews 
